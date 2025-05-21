@@ -4,3 +4,4 @@ langchain-community
 langchainhub
 ipykernel
 langchain_groq
+langchain_huggingface
