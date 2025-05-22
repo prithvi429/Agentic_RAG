@@ -1,5 +1,7 @@
 # Agentic AI
 
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/docs/agentic_ai_logo.png" alt="Agentic AI Logo" width="200"/>
+
 Agentic AI is a demonstration project that combines LangChain, LangGraph, and advanced retrieval-augmented generation (RAG) techniques for building agentic AI workflows with SQL and LLMs.
 
 ## Features
